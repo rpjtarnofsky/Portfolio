@@ -34,7 +34,6 @@
     position: sticky;
     position: -webkit-sticky;
     top: 0;
-    /* background-image: url("../images/hero_texture.jpg"); */
     background-size: cover;
     background-attachment: fixed;
     background-position: 100%;
